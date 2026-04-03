@@ -1,6 +1,6 @@
 Wordpress plugin that creates timelines from custom content type posts.
 
-How to Use the Shortcode
+### How to Use the Shortcode
 To display your timelines on any post or page, use the [timeline] shortcode. You must specify which Topic to display by using its slug.
 
 Basic Usage:	[timeline topic="company-history"]
